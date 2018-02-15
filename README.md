@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 16, 2018
 
 ### Student Name:  
-(First and Last Name)
+Gabriella Cerrato
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment seeks to teach students the basic Javascript commands in a way that is easy to understand for college students which is an expense calculator. 
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://gzc16.github.io/lesson4_javascript1/ 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. The importance of semi colons! Errors can be eliminated simply by remembering to use semi colons. 
+2. In this lesson we also learned how to write equations in Javascript. For example, calculating the percentage
+the expense takes up of the overall expenditures needed an equation. 
+3. I also learned that Javascript is a loosely typed language making it dynamic. 
 
 
